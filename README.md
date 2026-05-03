@@ -1,15 +1,15 @@
 # EdgeForge Beta
 
 
-Status: Private Beta
+**Status**: Private Beta
 
-Focus: Strategy research and validation
+**Focus**: Strategy research and validation
 
-Market: BTCUSDT testnet/paper research
+**Market**: BTCUSDT testnet/paper research
 
-Live trading: Not enabled for public use
+**Live trading**: Not enabled for public use
 
-Goal: Build a transparent research workflow before any production deployment
+**Goal**: Build a transparent research workflow before any production deployment
 
 
 **EdgeForge** is an experimental crypto strategy research lab focused on testing, validating, and monitoring trading setups before they are ever considered for live execution.
