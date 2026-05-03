@@ -1,3 +1,4 @@
+<img width="1900" height="851" alt="image" src="https://github.com/user-attachments/assets/4ccee740-5997-4dea-b731-9aa88138172a" />
 # EdgeForge Beta
 
 
