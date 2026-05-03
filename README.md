@@ -55,6 +55,9 @@ Main components currently being developed:
 
 ---
 
+## Screenshot
+<img width="399" height="789" alt="3" src="https://github.com/user-attachments/assets/d7849cb5-0fd2-486d-99a0-69979ac7b1ef" />
+
 
 ## Research Workflow
 
@@ -75,7 +78,5 @@ Promote to Paper/Testnet
       ↓
 Export Research Package
 
+---
 
-## Screenshot
-
-<img width="399" height="789" alt="3" src="https://github.com/user-attachments/assets/d7849cb5-0fd2-486d-99a0-69979ac7b1ef" />
