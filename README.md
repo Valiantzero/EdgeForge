@@ -54,7 +54,7 @@ Main components currently being developed:
 - Export packages for external analysis
 
 ---
-
+<img width="399" height="789" alt="3" src="https://github.com/user-attachments/assets/d7849cb5-0fd2-486d-99a0-69979ac7b1ef" />
 ## Research Workflow
 
 The current workflow is being consolidated into a single research pipeline:
@@ -76,5 +76,5 @@ Export Research Package
 
 
 
-<img width="399" height="789" alt="3" src="https://github.com/user-attachments/assets/d7849cb5-0fd2-486d-99a0-69979ac7b1ef" />
+
 
