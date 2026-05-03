@@ -2,9 +2,13 @@
 
 
 Status: Private Beta
+
 Focus: Strategy research and validation
+
 Market: BTCUSDT testnet/paper research
+
 Live trading: Not enabled for public use
+
 Goal: Build a transparent research workflow before any production deployment
 
 
