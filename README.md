@@ -74,4 +74,7 @@ Promote to Paper/Testnet
       ↓
 Export Research Package
 
-<img width="1900" height="851" alt="image" src="https://github.com/user-attachments/assets/4ccee740-5997-4dea-b731-9aa88138172a" />
+
+
+<img width="399" height="789" alt="3" src="https://github.com/user-attachments/assets/d7849cb5-0fd2-486d-99a0-69979ac7b1ef" />
+
