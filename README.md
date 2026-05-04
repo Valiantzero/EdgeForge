@@ -56,6 +56,8 @@ Main components currently being developed:
 ---
 
 ## Screenshot
+<img width="1912" height="834" alt="image" src="https://github.com/user-attachments/assets/25736160-36ed-48c1-953e-122912a4dfd7" />
+
 <img width="1908" height="818" alt="image" src="https://github.com/user-attachments/assets/283e8fa7-f1df-4470-be70-6031e85959b0" />
 
 
